@@ -11,4 +11,4 @@ peaks.m -> a simplified and custom version of the matlab function findpeaks() us
 
 hammer_data_x.txt -> set of sample data to run the script.
 
-The presentation folder contains the LaTeX files for a pdf report of the script
+
